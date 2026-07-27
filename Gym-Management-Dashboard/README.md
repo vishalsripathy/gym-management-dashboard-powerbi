@@ -6,7 +6,9 @@ An interactive Gym Management Dashboard built using **Power BI**, **DAX**, and *
 
 ---
 
-  ## Dashboard Preview
+  ## .
+
+📊Dashboard Preview
 
 ![Gym Dashboard](Dashboard.png)
 

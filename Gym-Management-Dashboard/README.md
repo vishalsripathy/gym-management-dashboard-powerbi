@@ -6,9 +6,9 @@ An interactive Gym Management Dashboard built using **Power BI**, **DAX**, and *
 
 ---
 
-## 📊 Dashboard Preview
+  ## Dashboard Preview
 
-![Dashboard](Gym-Management-Dashboard/Dashboard.png)
+![Gym Dashboard](Dashboard.png)
 
 > If your image is in the repository root instead of the folder, use:
 > `![Dashboard](Dashboard.png)`
